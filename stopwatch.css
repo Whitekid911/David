@@ -1,0 +1,29 @@
+/* Reset styles */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+body{
+    width: 100%;
+    height: 100vh;
+    background-image:  url(stopwatch\ background\ .png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p {
+    font-size: larger;
+    padding-top: 9rem;
+text-align: center;
+margin-top: 50px; /* Adjust as needed */
+color: white;
+}
+.hire-me{
+    position: fixed;
+    bottom: 60px;
+    right: 20px;
+    background-color: #991a1a;
+    padding: 10px;
+    color: whitesmoke;
+}
